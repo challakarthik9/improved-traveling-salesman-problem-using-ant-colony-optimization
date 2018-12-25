@@ -1,2 +1,2 @@
-# improved-traveling-salesman-problem-using-ant-colony-optimization
+# improved-traveling-salesman-problem-using-ant-colony-optimization project
 It is fully dedicated to ant colony algorithms and surveys several applications of Ant Colony Optimization in several fields, such as scheduling, machine learning and bio-informatics. The solution for this problem is constructed in two phases, each of which solved by a different type of ants. One ant colony is inhabited by flow ants and the other colony by reliability ants. The number of flow ants is the same as the number of demand nodes and, although they all start constructing their solution from the source node, each ant is assigned to reach just one specific demand node.
